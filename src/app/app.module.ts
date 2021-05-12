@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ClickdropComponent } from './clickdrop/clickdrop.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ClickdropComponent
   ],
   imports: [
     BrowserModule,
