@@ -1,6 +1,7 @@
 # About
 
-Image Slider
+2 Image Slider added
+
 
 # Drop
 
