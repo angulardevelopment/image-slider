@@ -3,7 +3,7 @@
 Images Panel- In this project, we used flex properties and expand images on click.
 Slide in on Scroll- In this page when we scroll the page then the image will bind.
 Simple Dropper
-Slider
+image Slider
 
 
 # Drop
